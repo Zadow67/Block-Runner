@@ -6,9 +6,15 @@ This is my first project made with Unity. I made it to learn the basics of Unity
 
 ## How to Play
 
-* Control the player and avoid obstacles.
+* Use the left and right arrow keys to move.
+* Avoid obstacles.
 * Collect points as you play.
 * Try to get the highest score you can.
+
+## Controls
+
+* **Left Arrow:** Move left
+* **Right Arrow:** Move right
 
 ## How to Run
 
